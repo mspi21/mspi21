@@ -6,6 +6,7 @@
 
 \- 👋 Hi, I’m @mspi21<br>
 \- 🎓 I study CompSci/Cyber Security at the Faculty of Information Technology of the CTU in Prague<br>
+\- 🖥 I'm now working as a back-end developer<br>
 \- 👀 I'm interested in web/mobile development, design patterns, reverse engineering, penetration testing & computer graphics<br>
 \- 🌐 Fluent in C, C++, JavaScript/TypeScript, Python, English, German and Czech<br>
 \- 🌱 Currently learning React.js, Vue.js, C#/.NET, Java, Rust and French<br>
