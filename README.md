@@ -15,7 +15,7 @@
 
 <b>## How to reach me</b>
 
-\- 📮 Email: mspi21@protonmail.com<br>
+\- 📮 Email: milan.spinka@proton.me<br>
 
 ```c
 #endif // README_MSPI21_H
