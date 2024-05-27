@@ -5,13 +5,11 @@
 
 <b>\## About Me</b>
 
-\- 👋 Hi, I’m @mspi21<br>
-\- 🎓 I study Computer Science and Security at the Faculty of Information Technology of the Czech Technical University in Prague<br>
-\- 🔐 I work as an Ethical hacker at T-Mobile Czech Republic<br>
-\- 🧑‍🏫 I teach C and C++ programming at FIT CTU and code for fun in my free time<br>
-\- 👀 I am also interested in programming language design, reverse engineering, cryptography, mathematics & philosophy<br>
+\- 👋 Hi, I’m Milan<br>
+\- 🎓 Information Security Student at the Czech Technical University in Prague<br>
+\- 🔐 Penetration Tester at T-Mobile Czech Republic<br>
+\- 👀 Interested also in open-source security, (secure) programming language design, reverse engineering, cryptography, mathematics & philosophy<br>
 \- 🌐 Fluent in C, C++, Rust, JavaScript/TypeScript, Python, English, German and Czech<br>
-\- 🌱 Semi-fluent in Java, Italian & Spanish <br>
 
 <b>## How to reach me</b>
 
