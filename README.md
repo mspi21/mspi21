@@ -1,20 +1,9 @@
-```c
-#ifndef README_MSPI21_H
-#define README_MSPI21_H
-```
-
 <b>\## About Me</b>
 
 \- 👋 Hi, I’m Milan<br>
-\- 🎓 Information Security Student at the Czech Technical University in Prague<br>
-\- 🔐 Penetration Tester at T-Mobile Czech Republic<br>
-\- 👀 Interested also in open-source security, (secure) programming language design, reverse engineering, cryptography, mathematics & philosophy<br>
-\- 🌐 Fluent in C, C++, Rust, JavaScript/TypeScript, Python, English, German and Czech<br>
+\- 🥷🏻 Threat Researcher at Gen (formerly Avast)<br>
+\- 🎓 Grad Student at FIT CTU in Prague<br>
+\- 👀 Interested in open-source security, (secure) programming language design, reverse engineering & cryptography<br>
+\- 🦀 Rust enjoyer<br>
 
-<b>## How to reach me</b>
-
-\- 📮 Email: milan.spinka@proton.me<br>
-
-```c
-#endif // README_MSPI21_H
-```
+If that's not enough of an intro, feel free to have a look at my [cv](https://github.com/mspi21/cv/releases).
